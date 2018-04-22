@@ -3,10 +3,12 @@
 To install docker-prune.sh copy it to your local bin folder:
 (If you need superuser rights preprend lines with *sudo* or *su*)
 ```bash
+$ sudo -s
 $ cp ./docker-prune.sh /bin
 $ chmod +x /bin/docker-prune.sh
 $ cd /bin
 $ ln -s ./docker-prune.sh docker-prune
+$ exit
 ```
 
 ## How to use

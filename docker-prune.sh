@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # (© 2017) Sebastian Tilders
 function print_copyright() {
 	echo ""
